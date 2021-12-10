@@ -8,7 +8,7 @@
       "developerName": "Allui",
       "subtitle": "iOS клиент для сайта AniLibria.tv",
       "version": "1.1.4",
-      "versionDate": "2021-11-06T00:00:00-23:00",
+      "versionDate": "2021-11-06T14:30:00-07:00",
       "versionDescription": "Добавлено: \n\n1.поддержка Picture in Picture; \n\n2.кнопка истории просмотров в фиде.",
       "downloadURL": "https://github.com/anilibria/anilibria-ios/releases/download/v1.1.4/Anilibria_1.1.4_iOS_13.0.ipa",
       "localizedDescription": "Added: 1. support for Picture in Picture; 2.button of the history of views in the feed.",
